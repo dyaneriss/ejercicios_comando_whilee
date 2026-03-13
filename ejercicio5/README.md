@@ -17,3 +17,5 @@ El programa imprime:
 - Capital final de Pedro
 - Capital final de Juan
 - Capital total
+
+[diagrama de flujo](diagrama.png)
