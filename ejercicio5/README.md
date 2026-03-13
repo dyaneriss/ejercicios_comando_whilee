@@ -18,4 +18,4 @@ El programa imprime:
 - Capital final de Juan
 - Capital total
 
-[diagrama de flujo](diagrama.png)
+![diagrama de flujo](diagrama.png)
